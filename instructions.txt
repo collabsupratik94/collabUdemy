@@ -1,3 +1,5 @@
 Hello World
 This file has been created by another collab
 This line has been added by the owner
+
+This line has been added to create a merge conflict -> Owner
