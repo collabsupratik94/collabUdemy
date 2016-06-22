@@ -1,4 +1,5 @@
 {
     "id": "123",
-    "name": "Jhon Appleseed",
+    "firstName": "Jhon",
+    "lastName": "Appleseed"
 }
